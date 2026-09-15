@@ -1,9 +1,9 @@
 ## hey! i'm Daamin
 some cool stuff about me
-- i host & attend events like [horizons arcana](https://arcana.hackclub.com/) or [hackclub: the game](https://game.hackclub.com/)
-- i help teenagers & adults run non profit organizations by helping run a US-based 501(c)(3) fiscal sponsor – [hcb](https://hcb.hackclub.com/)
-- i love building cool shit like – [chessbro.org](https://chessbro.org)
-- i work on open source projects like -  [flavortown](https://flavortown.hackclub.com) @ hack club
+- i host & attend events like [horizons arcana](https://arcana.hackclub.com/) or [hctg](https://game.hackclub.com/)
+- i help teenagers & adults run non profit organizations by helping run a [US-based 501(c)(3) fiscal sponsor](https://hcb.hackclub.com/)
+- i love building cool shit like [chessbro.org](https://chessbro.org)
+- i work on open source projects like [flavortown](https://flavortown.hackclub.com) @ hack club
 
 thats mostly it.
 
